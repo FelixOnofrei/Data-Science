@@ -10,3 +10,7 @@ Practical examples of EDA, Statistics, FE, ML, DS - datasets from Kaggle
     
 - CardioGoodDataset - Descriptive statistics
     Goal: Create a customer profile for each CardioGood Fitness treadmill product line.
+
+## Aditional projects:
+
+- Web scraping bot - a bot made to retrieve product information from online shop to pandas DataFrame
