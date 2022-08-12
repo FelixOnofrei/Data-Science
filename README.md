@@ -2,6 +2,7 @@
 Practical examples of EDA, Statistics, FE, ML, DS - datasets from Kaggle
 
 ## This repository contains the following datasets and corresponding analysis:
+
 - Titanic Dataset - EDA, FE and predictions using Logistic Regression and Random Forest. It also contains Hyperparameter optimization.
     Prediction: whether a passanger survived or not
 
