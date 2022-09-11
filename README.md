@@ -11,6 +11,9 @@ Practical examples of EDA, Statistics, FE, ML, DS - datasets from Kaggle
     
 - CardioGoodDataset - Descriptive statistics
     Goal: Create a customer profile for each CardioGood Fitness treadmill product line.
+    
+- Credit Card Fraud - Outlier Detection (Isolation Forest, OneClassSVM, LOF)
+    Goal: Detect frauded transactions. 
 
 ## Aditional projects:
 
